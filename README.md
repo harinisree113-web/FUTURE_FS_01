@@ -1,1 +1,2 @@
-# FUTURE_FS_01
+neon-aesthetics-folio
+.lovable.app# FUTURE_FS_01
